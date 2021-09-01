@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5640d4b8-d2bf-4173-b4e2-0e035c9c67f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TechNewsJavaApiApplication">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.technews.HelloWorld" />
       <module name="tech-news-java-api" />
@@ -60,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TechNewsJavaApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.technews.TechNewsJavaApiApplication" />
+      <module name="tech-news-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.technews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TechNewsJavaApiApplication" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
