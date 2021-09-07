@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5640d4b8-d2bf-4173-b4e2-0e035c9c67f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech-news-java-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com/technews/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com/technews/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1xVoGzP3Qenx9quIIDUDxpug1a7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,7 +48,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aust2\Desktop\technews\tech-news-java-api" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TechNewsJavaApiApplication">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,5 +111,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
